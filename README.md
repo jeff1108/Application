@@ -37,8 +37,10 @@
   <h2 style="color: white" class="white-text" align="center">Introduce Myself</h2>
 </div>
 <div class="thin-border">
-  <h3 class="black-text"> <br>Hi everyone, my name is Jeff.</br>
-I have just finished my degree this year and I would like to apply the program as I really appreciate the idea of democratisation of learning and technology. Everyone should have an equal opportunity to learn or be educated wherever they born. Nowadays, more and more people started self-learning new knowledge in the Internet, and I think founders and coders provide a good platform for me to work with like-minded people, sharing ideas and build some useful things to the community.
+  <h3 class="black-text"> <br>JEFF HUNG</br>
+
+I have recently completed my degree and would like to apply the program, since I strongly appreciate the idea of democratisation of learning and technology. Continuous self-improvement is crucial in the ever-changing world, where I think “Founders and Coders” provide a good platform that enable me to inspire and contribute my ideas. Thus, the initialisation to contribute and drive changes to the tech community. 
+
 </h4>
 </div>
 
@@ -47,13 +49,12 @@ I have just finished my degree this year and I would like to apply the program a
 
 <h1 class="injected-text" align="center">What motivates me?</h1>
 <div class="box brown-box">
-  <h3 class="box white-box black-text">I want to challenge myself and explore new knowledges, leaving my comfort zone and moving to a completely different country, work with different countries people.
-And, I want to be an app developer in the future. I think being an app developer is really cool. I want to build some apps that can make our life to be more convenient.
-    <br>For example: underground apps, bank and credit card apps.</br>
+  <h3 class="box white-box black-text">As quoted by Steve Jobs, “Innovation distinguishes between a leader and a follower”. The quote inspired me to fully challenge myself and be truly exposed to the uprising technologies. My long term goal is to fulfil the requirements for a satisfaction app developer, where the apps innovation could transform human lives and hence contributing to the society.  
+I think coding become very important nowadays, and I love technology help us to turn our ideas and imaginations into practice/reality.
+</br>
 </h3>
-  <h3 class="box white-box black-text">I think coding become very important nowadays, and I love technology help us to turn our ideas and imaginations into practice/reality.
-However, I don't have any technical background and coding knowledge, as I studied finance in the college, so I started self-learning in the codecademy and the free code camp system one month ago. 
-<br>But that is not enough to become a professional, and I believe by joining this program, I'm able to learn more and in a more efficient way. I believe working as a team, I can learn from others and get inspired </br>
+  <h3 class="box white-box black-text">As I studied Banking and Finance in my undergraduate degree, where I self-studied the Code Academy and the free code camp system. I believe in order to pursue further, it would be fundamental to participate in this program, where I will be able to develop my technical skills further. I believe working as a team, that I can equip myself further and acquire the skills from others. 
+<br>In conclude, I hope that with my strong determination and passion. I can participate in the scheme where I could pursue further and contribute to the wider community. </br>
 </h3>
 </div>
 <br>
