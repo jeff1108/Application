@@ -1,8 +1,3 @@
-
----
----
-
-@import "{{ site.theme }}";
 .box {
   border-style: solid;
   border-color: black;
@@ -121,3 +116,4 @@ p {
   padding-bottom: 4px;
   
 }
+@import "{{ site.theme }}";
