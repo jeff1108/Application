@@ -39,12 +39,11 @@
 I have just finished my degree this year and I would like to apply the program as I really appreciate the idea of democratisation of learning and tech. Everyone should have an equal opportunity to learn or be educated wherever they born in. Nowadays, more and more people started self-learning new knowledge in the Internet, and I think founders and coders provide a good platform for us to work with like-minded people, share our ideas and build some useful things to the community.
 </h4>
 </div>
-</br>
-<br>
+
 
 </br>
 
-<h1 class="injected-text">What motivates me?</h3>
+<h1 class="injected-text" align="center">What motivates me?</h3>
 <div class="box brown-box">
   <h3 class="box white-box black-text">I want to challenge myself and explore new knowledges, leaving my comfort zone and moving to a completely different country, work with different countries people.
 And, I want to be an app developer in the future. I think being an app developer is really cool. I want to build some apps that can make our life to be more convenient.
@@ -61,7 +60,7 @@ However, I don't have any technical background and coding knowledge, as I studie
 <h2 class="white-text">Free Code Camp & Codewars pages</h3> 
   <div align="center" class="black-text">
     <p> Codewars click <a href="https://www.codewars.com/users/jeff1108">here</a> </p>
-    <p> FreeCodeCamp click <a href="https://www.freecodecamp.org/jeff1108">here</a> </p>
+    <p> FreeCodeCamp click <a href="https://www.freecodecamp.org">here</a> </p>
     <p> GitHub <a href="https://github.com/jeff1108">here</a> </p>
     <p> A PEN <a href="https://codepen.io/jeff118/pen/ZaZqmd">here</a> </p>
 </div>
