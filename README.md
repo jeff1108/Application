@@ -37,8 +37,8 @@
   <h2 style="color: white" class="white-text" align="center">Introduce Myself</h2>
 </div>
 <div class="thin-border">
-  <h3 class="black-text"> <br>JEFF HUNG</br>
-
+  <h4 class="black-text" align="center"> <br>JEFF HUNG</br></h4>
+<h4 class="black-text">
 I have recently completed my degree and would like to apply the program, since I strongly appreciate the idea of democratisation of learning and technology. Continuous self-improvement is crucial in the ever-changing world, where I think “Founders and Coders” provide a good platform that enable me to inspire and contribute my ideas. Thus, the initialisation to contribute and drive changes to the tech community. 
 
 </h4>
