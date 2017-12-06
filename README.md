@@ -38,7 +38,7 @@
 </div>
 <div class="thin-border">
   <h3 class="black-text"> <br>Hi everyone, my name is Jeff.</br>
-I have just finished my degree this year and I would like to apply the program as I really appreciate the idea of democratisation of learning and technology. Everyone should have an equal opportunity to learn or be educated wherever they born in. Nowadays, more and more people started self-learning new knowledge in the Internet, and I think founders and coders provide a good platform for us to work with like-minded people, share our ideas and build some useful things to the community.
+I have just finished my degree this year and I would like to apply the program as I really appreciate the idea of democratisation of learning and technology. Everyone should have an equal opportunity to learn or be educated wherever they born. Nowadays, more and more people started self-learning new knowledge in the Internet, and I think founders and coders provide a good platform for us to work with like-minded people, share our ideas and build some useful things to the community.
 </h4>
 </div>
 
